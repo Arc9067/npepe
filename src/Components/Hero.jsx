@@ -14,9 +14,6 @@ const Hero = () => {
           Pepe Coin's remarkable achievements and make an even bigger impact in
           the crypto world.
         </p>
-        {/* <p className=" text-3xl font-luckiestGuy">
-          0x000000000000000000000000000
-        </p> */}
 
         <a
           href=""
@@ -25,7 +22,9 @@ const Hero = () => {
         >
           ape now
         </a>
-
+        <p className="z-50 text-3xl break-all">
+          0xB4b3ff72693585E08dbfD5794510cc7448a4F7cF
+        </p>
         <div className="">
           <img
             src={personLeft}
