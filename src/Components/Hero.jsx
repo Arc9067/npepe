@@ -25,6 +25,13 @@ const Hero = () => {
         <p className="z-50 text-3xl break-all">
           0xB4b3ff72693585E08dbfD5794510cc7448a4F7cF
         </p>
+        <a
+          className="z-50 text-2xl break-all"
+          href="malito:Newpepecoin@gmail.com"
+        >
+          Newpepecoin@gmail.com
+        </a>
+
         <div className="">
           <img
             src={personLeft}
