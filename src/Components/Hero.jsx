@@ -16,7 +16,7 @@ const Hero = () => {
         </p>
 
         <a
-          href=""
+          href="https://www.dextools.io/app/ether/pair-explorer/0xd6DA84419E7a021E39d1fa1E9FD35A3eDF8b10fD"
           target="_blank"
           className="w-[355px] h-[54px] px-8 py-4 bg-white z-50 rounded shadow  border justify-center items-center gap-[10px] text-primary text-[16px] leading-snug font-anakeimDisplaySsiRegular  hover:bg-primary hover:text-white"
         >
